@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Claude Code session data
+.claude/
+
+# Original source folders (large, not needed in repo)
+摄影/
+影像/
+birthday cafe/
+
+# Portfolio PPTX — 219 MB, exceeds GitHub's 100 MB file limit
+assets/portfolio.pptx
